@@ -6,6 +6,7 @@ author: Joaquin Gonzalez Fontan
 # Joaquin Gonzalez Fontan
 ### Contact Information:
 📞 +1 (754) 267-4571 | 📍 Hollywood, FL 33023
+
 ✉️ [joacogf2002@gmail.com](mailto:joacogf2002@gmail.com) | [LinkedIn - Joaquin Gonzalez Fontan](https://www.linkedin.com/in/joaquin-gonzalez-fontan/)
 
 # Important Links:
