@@ -34,7 +34,7 @@ author: Joaquin Gonzalez Fontan
 - **Machine Learning**: Machine Learning & Deep Learning with Python
 - **Regression Analysis**: Regression Analysis with R
 - **Business Analytics & Excel for Professionals**: Professional usage of Excel and Tableu, manipulating and displaying data
-**Senior Project**: Built an Application with a team for a real client, following real-life procedures such as risk analysis, sprints, weekly meetings, and deadlines
+- **Senior Project**: Built an Application with a team for a real client, following real-life procedures such as risk analysis, sprints, weekly meetings, and deadlines
 
 ---
 
