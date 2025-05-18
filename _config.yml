@@ -1,0 +1,26 @@
+logo: 
+title: Portfolio
+email: joacogf2002@gmail.com
+description: Double Major in Computer Science and Data Science | Division 1 Rugby Player | Lindenwood University Graduate
+favicon: true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/JoaquinGF74
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/joaquin-gonzalez-fontan/
+
+navigation:
+  - name: Resume
+    link: https://JoaquinGF74.github.io/Portfolio/
+  - name: Projects
+    link: place holder
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
