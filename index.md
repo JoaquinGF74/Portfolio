@@ -19,6 +19,11 @@ author: Joaquin Gonzalez Fontan
 **Bachelor of Science in Data Science** *(Aug 2022 - May 2025)*
 - Academics and Athletics scholarships recipient
 
+### Instituto Tecnologico San Bonifacio | Buenos Aires, Argentina
+**Electromechanic Technician Certificate** *(Mar 2013 - Dec 2020)*
+- Worked with machinery such as leathes, welding, CNC, circuit welding.
+- Designed electrical systems for blueprints.
+
 ---
 
 ## 📚 Relevant Coursework
@@ -65,5 +70,5 @@ supporting the chief plumbern and chief electrician
 
 ## 🏅 Accomplishments & Additional Information  
 - **Selected for Provincial Rugby Team** *(2017-2019)*
-- **SLS D1 Conference Champion** (2021-2025)
+- **SLS D1 Conference Champion** *(2021-2025)*
 - **Languages**: Spanish (Native), English (C2), German (A1)
