@@ -17,6 +17,7 @@ author: Joaquin Gonzalez Fontan
 
 ### Lindenwood University | Saint Charles, MO
 **Bachelor of Science in Computer Science** *(Aug 2021 - May 2025)*
+
 **Bachelor of Science in Data Science** *(Aug 2022 - May 2025)*
 - Academics and Athletics scholarships recipient
 
