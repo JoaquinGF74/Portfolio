@@ -37,7 +37,7 @@ author: Joaquin Gonzalez Fontan
 - **Senior Project**: Built an Application with a team for a real client, following real-life procedures such as risk analysis, sprints, weekly meetings, and deadlines
 
 ---
-s
+
 ## 💻 Technical Skills
 - **Operating Systems**: Microsoft, Linux  
 - **Software & Tools**: Microsoft Word, Excel, PowerPoint, AutoCAD
