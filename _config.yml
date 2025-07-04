@@ -27,9 +27,5 @@ navigation:
       - link: temp
       - name: Sales Profit/Revenue USA
       - link: temp
-      - name: Nashville Housing Analysis
-      - link: temp
-      - name: Movies Breakdown 1980-2020
-      - link: temp
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
