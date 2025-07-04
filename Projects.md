@@ -4,7 +4,8 @@ layout: default
 # Projects
 With a strong foundation in data analytics, I specialize in transforming complex datasets into actionable insights that support strategic decision-making. I’ve led diverse projects across industries, applying advanced techniques in machine learning (using Python and R), writing optimized SQL queries, and building predictive models. My experience also includes designing interactive dashboards and compelling visualizations in Power BI and Tableau, effectively turning raw data into meaningful business intelligence. Below is a curated selection of my most impactful projects, showcasing my skills in statistical analysis, predictive modeling, and data storytelling.
 
-## [COVID Statistics Analysis between 2020 & 2021](./Projects/COVID Project 2020-2021)
+## [COVID Statistics Analysis between 2020 & 2021](./Projects/COVID Project 2020-2021
+/COVID Statistics 2020-2021.md)
 
 This Project reviews data colected by the World Health Association between 2020 & 2021.
 
