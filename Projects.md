@@ -31,3 +31,5 @@ This Project classifies sales done by Category & Segment across the United State
 **Technologies:** `Excel`, `Tableau`
 
 **Key Insight:** Utilizes Key Performance Indicators to understand Market profitability, and helps understand which areas to sell what product. 
+
+### [Back](./)
