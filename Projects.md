@@ -15,7 +15,7 @@ This Project reviews data colected by the World Health Association between 2020 
 - **Visualization & Analysis:** Built an interactive dahsboard that analyze Global numbers, % of the Population Infected, and forecasting of the Avg. Infection Rate.
 - **Insights Extraction:** Identified the infection rates, individual country results based on population and local ways of handling the situation.
 
-**Technologies:** `SQL`, `Excel`, `Power BI`
+**Technologies:** `SQL`, `Excel`, `Tableau`
 
 **Key Insight:** Uses a forecasting model that provides vital information based on the country's situation, allow us to take preventive measures based on the expected results. 
 
