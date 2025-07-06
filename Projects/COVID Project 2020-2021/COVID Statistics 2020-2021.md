@@ -1,6 +1,6 @@
 # **COVID Statistics 2020-2021**
 
-![COVID Infection Forecasting](https://raw.githubusercontent.com/JoaquinGF74/Portfolio/assets/COVID Dashboard Img.png)
+![COVID Infection Forecasting](https://raw.githubusercontent.com/JoaquinGF74/Portfolio/main/assets/covid_dashboard_img.png)
 
 ### **Project Overview**
 
