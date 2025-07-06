@@ -69,6 +69,6 @@ ORDER BY PercentPopulationInfected desc
 ```
 
 ## Tableau Public link: 
-![COVID Dashboard 2020-2021](https://public.tableau.com/views/CovidDashboard2020-2021_17513011312390/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[COVID Dashboard 2020-2021](https://public.tableau.com/views/CovidDashboard2020-2021_17513011312390/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### [Back](https://joaquingf74.github.io/Portfolio/Projects.html)
