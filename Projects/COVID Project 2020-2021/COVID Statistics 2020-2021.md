@@ -4,7 +4,7 @@
 
 ### **Project Overview**
 
-This Project focuses on the analysis and visualization of infection and death cases throughout all 7 contients using **SQL** and **Tableau**. The goals was to clean, process, and analyze when, and how many deaths were relative to the infected ration by country.
+This Project focuses on the analysis and visualization of infection and death cases throughout all 7 contients using **SQL** and **Tableau**. The goal was to clean, process, and analyze when, and how many deaths were relative to the infected ratio by country.
 
 ## **Objectives**
 
