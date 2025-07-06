@@ -44,7 +44,7 @@ This Project focuses on the analysis and visualization of infection and death ca
 ## Conclusion
 
 ## SQL Code:
-```SQL
+```sql
 -- Global Numbers
 SELECT 
   SUM(new_cases) AS TotalCases, 
