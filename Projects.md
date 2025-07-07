@@ -26,7 +26,7 @@ This Project classifies sales done by Category & Segment across the United State
 - **Data Collection:** Imported sales data and prepared it analysis in Tableu. 
 - **Data Cleaning & Transformation:** Processed a cleaned dataset, connecting multiple tables from the Data Source.
 - **Visualization & Analysis:** Built an interactive dahsboard that analyzes profitability across the country, trends, and product-revenue.
-- **Insights Extraction:** Identified seasonal patterns, market expansion areas, and areas to grwo revenue. 
+- **Insights Extraction:** Identified seasonal patterns, market expansion areas, and areas to grow revenue. 
 
 **Technologies:** `Excel`, `Tableau`
 
