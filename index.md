@@ -92,7 +92,7 @@ author: Joaquin Gonzalez Fontan
 - **Interests:**  
   - **Rugby:** Playing since age 9  
   - **Cooking:** Specialties include *asado* and *mate*  
-  - **Bodybuilding:** Bench: 275 lbs | Squat: 425 lbs
+  - **Bodybuilding:** Bench: 275 lbs & Squat: 425 lbs
   - **Reading:** Fan of Brandon Sanderson’s fantasy novels  
   - **Travel:** Hiking, sightseeing, cultural exploration  
   - **Cars:** Tuning, drifting, and automotive mechanics  
