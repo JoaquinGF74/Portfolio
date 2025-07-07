@@ -1,6 +1,6 @@
 # **Sales Profit Accross the USA**
 
-![Sales Profit Accross the USA](https://raw.githubusercontent.com/ondrej-dusa/Portfolio/main/assets/sales_dashboard_img.png)
+![Sales Profit Accross the USA](https://raw.githubusercontent.com/JoaquinGF74/Portfolio/main/assets/sales_dashboard_img.png)
 
 ### **Project Overview**
 
