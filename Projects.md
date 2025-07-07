@@ -19,7 +19,7 @@ This Project reviews data colected by the World Health Association between 2020 
 
 **Key Insight:** Uses a forecasting model that provides vital information based on the country's situation, allow us to take preventive measures based on the expected results. 
 
-## [State Sale Profitability by City 2018-2021](./Projects/Sales Profit Project)
+## [State Sale Profitability by City 2018-2021](./Projects/Sales Profit Project/Sales Profit Accross the USA.html)
 
 This Project classifies sales done by Category & Segment across the United States (e.g Technology, Furniture, etc).  
 
