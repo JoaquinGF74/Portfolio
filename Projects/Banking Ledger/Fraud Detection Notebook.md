@@ -214,7 +214,4 @@ print(classification_report(y_test, y_pred))
 
 This project integrates **data engineering**, **machine learning**, and **data visualization** to build a complete banking fraud detection system. It demonstrates the ability to simulate data pipelines, apply intelligent rules for anomaly detection, and empower decision-makers with actionable insights through dashboards. Financial institutions can use similar systems for fraud prevention, compliance, and risk management.
 
-## Power BI link:
-[Banking Fraud Dashboard](https://app.powerbi.com/view?r=YOUR_LINK_HERE)
-
 ### [Back](https://joaquingf74.github.io/Portfolio/Projects.html)
