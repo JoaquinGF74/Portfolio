@@ -51,7 +51,7 @@ This project simulates a digital banking environment, models user and transactio
 - **Data Generation:** Created realistic user, account, and transaction data using Python and Faker to simulate a full banking ledger.
 - **Database Design & ETL:** Designed and populated a MySQL relational schema (`Users`, `Accounts`, `Transactions`), with time-stamped entries and cross-referenced relationships.
 - **Fraud Detection Modeling:** Built a Python-based notebook that applies multiple rules (e.g., high frequency, failed attempts, outlier amounts) to detect fraudulent transactions.
-- **Visualization & Dashboarding:** Designed a Power BI dashboard with dedicated fraud indicators, heatmaps, and KPI metrics to explore high-risk patterns and anomalies.
+- **Visualization & Dashboarding:** Designed a Power BI dashboard with dedicated fraud indicators and KPI metrics to explore high-risk patterns and anomalies.
 - **Insights Extraction:** Flagged suspicious users and transaction trends by time, value, and activity patterns to aid in fraud prevention and monitoring.
 
 **Technologies:** `MySQL`, `Python`, `pandas`, `Power BI`
