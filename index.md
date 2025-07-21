@@ -23,11 +23,13 @@ author: Joaquin Gonzalez Fontan
 **Bachelor of Science in Computer Science** *(Aug 2021 – May 2025)*  
 **Bachelor of Science in Data Science** *(Aug 2022 – May 2025)*  
 - Recipient of academic and athletic scholarships
+- Dean's List every school year
+- Rugby Team Leading GPA
 
 ### Instituto Tecnológico San Bonifacio | Buenos Aires, Argentina  
 **Electromechanic Technician Certificate** *(Mar 2013 – Dec 2020)*  
 - Worked with machinery such as lathes, welding tools, CNC, and circuit welding  
-- Designed electrical systems based on blueprints
+- Designed electrical systems on blueprints
 
 ---
 
@@ -53,24 +55,28 @@ author: Joaquin Gonzalez Fontan
 
 ## 💼 Work Experience  
 
-### **Senior Project | Lindenwood University, MO**  
-*Front-End Programmer & Database Designer (Jan 2025 – May 2025)*  
-- Designed a normalized relational database (3NF) with proper primary and foreign keys  
-- Implemented pop-ups and UI features connecting front-end with database logic  
-- Wrote queries enabling real-time interaction between users and the backend  
-
 ### **Performance Science Program | Lindenwood University, MO**  
 *Data Analyst (Jan 2024 – Dec 2024)*  
-- Built machine learning models to monitor and analyze weekly player performance  
-- Developed back-end to front-end communication pipelines for a web application  
-- Implemented pattern recognition systems to support athlete development and coaching decisions  
+- Designed and implemented machine learning algorithms using SQL, R, and Python to track players' performance, enhancing the accuracy of performance analysis.
+- Developed queries to pull data from the database, streamlining data processing and modeling for improved efficiency.
+- Developed clustering and classification code to analyze players' statistics and development, providing insights for strategic decision-making.
 
 ### **HG Desarrollos Inmobiliarios | Buenos Aires, Argentina**  
 *Field Construction Assistant (Dec 2016 – Feb 2018)*  
-- Supported the installation of water and electrical systems in buildings  
-- Transported materials and coordinated logistics on site  
-- Assisted chief plumber and chief electrician in infrastructure projects  
+- Assisted in constructing water and electric systems for buildings, ensuring timely completion and adherence to safety standards.
+- Facilitated the transportation of materials, optimizing logistics to ensure materials were available on-site as needed.
+- Supported the chief plumber and chief electrician by preparing tools and materials, contributing to efficient workflow and project progress.
 
+---
+
+## 💡Projects
+
+### **Senior Project | Lindenwood University, MO**  
+*Front-End Programmer & Database Designer (Jan 2025 – May 2025)*  
+- Built the database utilizing an SQL server that helped pull data from students and their degrees easier.
+- Utilized Python to design the GUI, and the interconnection between Front-End and the Database.
+- Built queries that facilitated the interaction of the user with the App allowing changes in the Database on the run.
+ 
 ---
 
 ## 🏆 Leadership Experience  
