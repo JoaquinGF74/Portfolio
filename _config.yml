@@ -27,5 +27,7 @@ navigation:
         link: https://JoaquinGF74.github.io/Portfolio/Projects/COVID Project 2020-2021/COVID Statistics 2020-2021.html
       - name: Sales Profit Accross the USA
         link: https://JoaquinGF74.github.io/Portfolio/Projects/Sales Profit Project/Sales Profit Accross the USA.html
+      - name: Banking Ledger and Fraud Detection System
+        link: https://JoaquinGF74.github.io/Portfolio/Projects/Banking Ledger/Fraud Detection Notebook.md
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
