@@ -28,6 +28,6 @@ navigation:
       - name: Sales Profit Accross the USA
         link: https://JoaquinGF74.github.io/Portfolio/Projects/Sales Profit Project/Sales Profit Accross the USA.html
       - name: Banking Ledger and Fraud Detection System
-        link: https://JoaquinGF74.github.io/Portfolio/Projects/Banking Ledger/Fraud Detection Notebook.md
+        link: https://JoaquinGF74.github.io/Portfolio/Projects/Banking Ledger/Fraud Detection Notebook.html
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
