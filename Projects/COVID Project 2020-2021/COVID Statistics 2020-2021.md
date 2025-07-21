@@ -42,6 +42,10 @@ This Project focuses on the analysis and visualization of infection and death ca
 - `Tableau`: Data visualization and dashboard creation.
 
 ## Conclusion
+This project provided a comprehensive exploration of the global impact of COVID-19 during 2020–2021 using structured data and visualization tools. By cleaning and processing raw data through SQL and presenting insights via Tableau, the analysis uncovered critical patterns in infection and death rates across continents and countries. The findings revealed stark regional disparities — with the U.S. and Europe showing significantly higher infection and death counts, while countries in Asia and Oceania maintained relatively low numbers.
+
+The use of forecasting tools also demonstrated the importance of early interventions and population health measures. Ultimately, this project not only sharpened technical skills in data querying and visualization but also showcased the power of data-driven storytelling in understanding real-world health crises.
+
 
 ## SQL Code:
 ```sql
