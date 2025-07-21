@@ -40,4 +40,22 @@ This project classifies sales data by category and segment across the United Sta
 
 **Key Insight:** Utilizes key performance indicators to assess market profitability and guide strategic product placement across regions.
 
+---
+
+## [Banking Ledger and Fraud Detection System](./Projects/Banking Ledger/Fraud Detection Notebook.html)
+
+This project simulates a digital banking environment, models user and transaction behavior in a relational MySQL database, and implements fraud detection using machine learning.
+
+### Key Steps:
+
+- **Data Generation:** Created realistic user, account, and transaction data using Python and Faker to simulate a full banking ledger.
+- **Database Design & ETL:** Designed and populated a MySQL relational schema (`Users`, `Accounts`, `Transactions`), with time-stamped entries and cross-referenced relationships.
+- **Fraud Detection Modeling:** Built a Python-based notebook that applies multiple rules (e.g., high frequency, failed attempts, outlier amounts) to detect fraudulent transactions.
+- **Visualization & Dashboarding:** Designed a Power BI dashboard with dedicated fraud indicators, heatmaps, and KPI metrics to explore high-risk patterns and anomalies.
+- **Insights Extraction:** Flagged suspicious users and transaction trends by time, value, and activity patterns to aid in fraud prevention and monitoring.
+
+**Technologies:** `MySQL`, `Python`, `pandas`, `Power BI`
+
+**Key Insight:** Combines rule-based anomaly detection and data storytelling to highlight financial fraud patterns and support risk assessment with interactive visual tools.
+
 ### [Back](./)
