@@ -18,89 +18,62 @@ layout: default
 
 ---
 
-## 🎓 Education 
+## 🎓 Education
 
-### Lindenwood University | Saint Charles, MO  
-**Bachelor of Science in Computer Science** *(Aug 2021 – May 2025)*  
-**Bachelor of Science in Data Science** *(Aug 2022 – May 2025)*  
-- Recipient of academic and athletic scholarships
-- Dean's List every school year
-- Rugby Team Leading GPA
+### Lindenwood University | Saint Charles, MO
+**Bachelor of Science in Computer Science** *(Aug 2021 – May 2025)*
+**Bachelor of Science in Data Science, added sophomore year** *(Aug 2022 – May 2025)*
+- GPA: 3.55/4.00
+- Dean's List, Rugby Team Leading GPA, Meritocracy Scholarship
 
-### Instituto Tecnológico San Bonifacio | Buenos Aires, Argentina  
-**Electromechanic Technician Certificate** *(Mar 2013 – Dec 2020)*  
-- Worked with machinery such as lathes, welding tools, CNC, and circuit welding  
+### Instituto Tecnológico San Bonifacio | Buenos Aires, Argentina
+**High School Diploma, Electromechanics Technician** *(2020)*
+- GPA: 3.57/4.00
+- Worked with machinery such as lathes, welding tools, CNC, and circuit welding
 - Designed electrical systems on blueprints
 
 ---
 
-## 📚 Relevant Coursework
-- **Data Structures & Algorithms:** Focused on algorithmic efficiency and Big-O analysis  
-- **Databases with SQL:** Hands-on database programming and relational modeling  
-- **Machine Learning:** Applied machine learning and deep learning techniques with Python  
-- **Regression Analysis:** Built regression models and interpreted results in R  
-- **Business Analytics & Excel for Professionals:** Professional use of Excel and Tableau for data visualization and analysis  
-- **Senior Project:** Collaborated with a team to develop an application for a real client, including sprint planning, risk analysis, and stakeholder presentations  
+## 💼 Work Experience
 
----
+### **Herman Law | Boca Raton, FL**
+*Settlements & Insurance Coordinator (Aug 2025 – Present)*
+- One of three members of the Settlements & Insurance team; independently own the full insurance-investigations function. Resolved a full backlog of inherited cases within 5 months.
+- Investigate insurance coverage for defendants in civil abuse litigation through public-records research and policy review: general liability, excess, umbrella, D&O, legal liability, commercial general liability, and property liability policies, including ISO forms, coverage, endorsements, exclusions, and limits.
+- Redesigned the investigation process into a structured, checklist-driven workflow with jurisdiction-specific routing (e.g., California vs. New York); reduced investigation timelines from open-ended to as little as 1 day.
+- Investigation findings and recommendations to the legal team have contributed to $1M+ in client settlements.
+- Track settlement accuracy across structured settlements, multi-installment payouts, and legal funding/medical liens, coordinating with internal specialists to ensure clean disbursement.
+- Follow up with attorneys to hold settlement agreements to a sub-60-day processing standard, and audit paralegal completion of Settlement Prep Worksheets.
 
-## 💻 Technical Skills
-
-- **Operating Systems:** Windows, Linux  
-- **Software & Tools:** Microsoft Word, Excel, PowerPoint, AutoCAD  
-- **Visualizations:** Tableau, Power BI, Canva  
-- **Programming Languages:** Python, C++, R, SQL  
-- **Version Control:** Git, GitHub  
-
----
-
-## 💼 Work Experience  
-
-### **Performance Science Program | Lindenwood University, MO**  
-*Data Analyst (Jan 2024 – Dec 2024)*  
+### **Lindenwood University | Saint Charles, MO**
+*Data Analyst (Jan 2024 – Dec 2024)*
 - Designed and implemented machine learning algorithms using SQL, R, and Python to track players' performance, enhancing the accuracy of performance analysis.
 - Developed queries to pull data from the database, streamlining data processing and modeling for improved efficiency.
 - Developed clustering and classification code to analyze players' statistics and development, providing insights for strategic decision-making.
-
-### **HG Desarrollos Inmobiliarios | Buenos Aires, Argentina**  
-*Field Construction Assistant (Dec 2016 – Feb 2018)*  
-- Assisted in constructing water and electric systems for buildings, ensuring timely completion and adherence to safety standards.
-- Facilitated the transportation of materials, optimizing logistics to ensure materials were available on-site as needed.
-- Supported the chief plumber and chief electrician by preparing tools and materials, contributing to efficient workflow and project progress.
 
 ---
 
 ## 💡Projects
 
-### **Senior Project | Lindenwood University, MO**  
-*Front-End Programmer & Database Designer (Jan 2025 – May 2025)*  
-- Built the database utilizing an SQL server that helped pull data from students and their degrees easier.
-- Utilized Python to design the GUI, and the interconnection between Front-End and the Database.
-- Built queries that facilitated the interaction of the user with the App allowing changes in the Database on the run.
+### **Senior Project Course App | Lindenwood University, MO**
+*Front-End Programmer & Database Designer (Jan 2025 – May 2025)*
+- Built the database utilizing an SQL server that helped pull data from students and their degrees more easily.
+- Utilized Python to design the GUI and the interconnection between the front end and the database.
+- Built queries that facilitated user interaction with the app, allowing changes in the database in real time.
  
 ---
 
-## 🏆 Leadership Experience  
+## 🏆 Leadership Experience
 
-### Lindenwood University  
-**Student Athlete – Division I Rugby (Aug 2021 – May 2025)**  
-- Committed 15+ hours/week to training and competitions  
-- Led fundraising efforts and volunteered at local events  
-- Helped team achieve a 30+ game unbeaten streak each season  
-- Captained multiple matches, demonstrating leadership on and off the field  
+### Lindenwood University | Saint Charles, MO
+**D1 Rugby Team** *(Aug 2021 – May 2025)*
+- Captained multiple games, leading the team to 30+ unbeaten games each season.
+- Helped teammates grow weekly, leading by example with enthusiasm and hard work every day.
+- Participated in teamwork activities that raised money by helping the local community organize events. 
 
 ---
 
-## 🏅 Accomplishments & Additional Information  
-
-- **Provincial Rugby Team Selection (Buenos Aires)** *(2017–2019)*  
-- **SLS D1 Conference Champion** *(2021–2025)*  
-- **Languages:** Spanish (Native), English (C2), German (A1)  
-- **Interests:**  
-  - **Rugby:** Playing since age 9  
-  - **Cooking:** Specialties include *asado* and *mate*  
-  - **Bodybuilding:** Bench: 275 lbs & Squat: 425 lbs
-  - **Reading:** Fan of Brandon Sanderson’s fantasy novels  
-  - **Travel:** Hiking, sightseeing, cultural exploration  
-  - **Cars:** Tuning, drifting, and automotive mechanics  
-  - **Music:** Play the saxophone  
+## 🏅 Skills & Interests
+- **Languages:** Spanish, German
+- **Software:** C++, SQL, Python, R, GitHub, Excel, Tableau, Power BI, PowerShell
+- **Interests:** Rugby (since age 9), Cooking (Asado & Mate), Bodybuilding (275lb Bench, 425lb Squat), Reading (Brandon Sanderson series), Travel (Hiking, Sightseeing), Cars (Tuning & Drifting), Music (Saxophone)
