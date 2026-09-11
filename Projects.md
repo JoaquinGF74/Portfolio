@@ -8,7 +8,7 @@ With a strong foundation in data analytics, I specialize in transforming complex
 
 ---
 
-## [COVID Statistics Analysis between 2020 & 2021](./Projects/COVID Project 2020-2021/COVID Statistics 2020-2021.html)
+## [COVID Statistics Analysis between 2020 & 2021](./Projects/covid-project-2020-2021/covid-statistics-2020-2021.md)
 
 This project analyzes data collected by the World Health Organization between 2020 and 2021.
 
@@ -25,7 +25,7 @@ This project analyzes data collected by the World Health Organization between 20
 
 ---
 
-## [State Sale Profitability by City (2018–2021)](./Projects/Sales Profit Project/Sales Profit Accross the USA.html)
+## [State Sale Profitability by City (2018–2021)](./Projects/sales-profit-project/sales-profit-across-the-usa.md)
 
 This project classifies sales data by category and segment across the United States (e.g., Technology, Furniture, etc.).
 
@@ -42,7 +42,7 @@ This project classifies sales data by category and segment across the United Sta
 
 ---
 
-## [Banking Ledger and Fraud Detection System](./Projects/Banking Ledger/Fraud Detection Notebook.html)
+## [Banking Ledger and Fraud Detection System](./Projects/banking-ledger/fraud-detection-notebook.md)
 
 This project simulates a digital banking environment, models user and transaction behavior in a relational MySQL database, and implements fraud detection using machine learning.
 
