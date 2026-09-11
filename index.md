@@ -22,6 +22,7 @@ layout: default
 
 ### Lindenwood University | Saint Charles, MO
 **Bachelor of Science in Computer Science** *(Aug 2021 – May 2025)*
+
 **Bachelor of Science in Data Science, added sophomore year** *(Aug 2022 – May 2025)*
 - GPA: 3.55/4.00
 - Dean's List, Rugby Team Leading GPA, Meritocracy Scholarship
