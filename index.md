@@ -1,6 +1,7 @@
 ---
 title: Welcome to my Portfolio
 author: Joaquin Gonzalez Fontan
+layout: default
 ---
 
 # Joaquin Gonzalez Fontan
