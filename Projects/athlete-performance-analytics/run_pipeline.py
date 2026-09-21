@@ -48,8 +48,12 @@ if existing_player_count == 0:
 else:
     print(f"PLayers already seeded ({existing_player_count} found) - Skipping.")
 
-cursor.execute("SELECT player_id FROM Players") # fetch all players to verify insertion
-player_ids = [row[0] for row in cursor.fetchall()]
+cursor.execute("SELECT player_id, position FROM Players") # fetch all players to verify insertion
+player_rows = cursor.fetchall()
+player_ids = [row[0] for row in player_rows]
+player_positions = {row[0]: row[1] for row in player_rows}
+
+FORWARD_POSITION = {"Prop", "Hooker", "Lock", "Flanker", "Number 8"}
 
 # 3. Generate 90 days of realistic training/match sessions
 
@@ -63,19 +67,50 @@ else:
 session_rows = []
 
 for pid in player_ids:
-    # each player has their own baseline intensity tendency
-    base_rpe = rng.integers(4, 7) # base RPE between 4 and 6 for training sessions
+    is_forward = player_positions[pid] in FORWARD_POSITION
+    base_rpe = rng.integers(4, 7)
     for d in dates:
-        is_match_day = d.weekday() == 5 # Saturday is match day, other days are training days
-        if is_match_day or rng.random() < 0.55: # 55% chance of having a session on a given day
-            duration = int(rng.integers(70, 100)) if is_match_day else int(rng.integers(40, 80)) # match days are longer
-            rpe = min(10, base_rpe + rng.integers(0, 4) + (2 if is_match_day else 0)) # match days are more intense
-            distance = round(rng.normal(4, 9), 2) # average distance in km, with some variance
-            high_speed = int(rng.normal(200, 1500)) # average high-speed distance in meters, with some variance
-            session_rows.append(( # append a tuple representing this session to the list
-                pid, d.date(), "match" if is_match_day else "training", 
-                duration, int(rpe), distance, high_speed
-            ))
+            is_match_day = d.weekday() == 5
+            if is_match_day or rng.random() < 0.55:
+                duration = int(rng.integers(70, 100)) if is_match_day else int(rng.integers(40, 80))
+                rpe = min(10, base_rpe + rng.integers(0, 4) + (2 if is_match_day else 0))
+                if is_match_day:
+                    if is_forward:
+                        distance = round(rng.uniform(5.0, 6.0), 2)
+                        high_speed = int(rng.integers(100, 251))
+                    else:
+                        distance = round(rng.uniform(6.0, 7.5), 2)
+                        high_speed = int(rng.integers(250, 451))
+                else:
+                    if is_forward:
+                        distance = round(rng.uniform(3.0, 4.5), 2)
+                        high_speed = int(rng.integers(300, 451))
+                    else:
+                        distance = round(rng.uniform(4.0, 6.5), 2)
+                        high_speed = int(rng.integers(450, 601))
+                session_rows.append((
+                    pid, d.date(), "match" if is_match_day else "training", 
+                    duration, int(rpe), distance, high_speed
+                ))
+                    
+
+
+
+
+#for pid in player_ids:
+    # each player has their own baseline intensity tendency
+#    base_rpe = rng.integers(4, 7) # base RPE between 4 and 6 for training sessions
+#    for d in dates:
+#        is_match_day = d.weekday() == 5 # Saturday is match day, other days are training days
+#        if is_match_day or rng.random() < 0.55: # 55% chance of having a session on a given day
+#            duration = int(rng.integers(70, 100)) if is_match_day else int(rng.integers(40, 80)) # match days are longer
+#            rpe = min(10, base_rpe + rng.integers(0, 4) + (2 if is_match_day else 0)) # match days are more intense
+#            distance = round(rng.normal(4, 9), 2) # average distance in km, with some variance
+#            high_speed = int(rng.normal(200, 1500)) # average high-speed distance in meters, with some variance
+#            session_rows.append(( # append a tuple representing this session to the list
+#                pid, d.date(), "match" if is_match_day else "training", 
+#                duration, int(rpe), distance, high_speed
+#            ))
 
 cursor.executemany( # insert generated session data into the Sessions table
     """INSERT INTO Sessions
