@@ -46,7 +46,7 @@ if existing_player_count == 0:
     conn.commit() # commit the transaction to save changes to the database
     print(f"Seeded {len(players)} new players") # print the number of players seeded
 else:
-    print(f"PLayers already seeded ({existing_player_count} found) - Skipping.")
+    print(f"Players already seeded ({existing_player_count} found) - Skipping.")
 
 cursor.execute("SELECT player_id, position FROM Players") # fetch all players to verify insertion
 player_rows = cursor.fetchall()
@@ -93,25 +93,6 @@ for pid in player_ids:
                     duration, int(rpe), distance, high_speed
                 ))
                     
-
-
-
-
-#for pid in player_ids:
-    # each player has their own baseline intensity tendency
-#    base_rpe = rng.integers(4, 7) # base RPE between 4 and 6 for training sessions
-#    for d in dates:
-#        is_match_day = d.weekday() == 5 # Saturday is match day, other days are training days
-#        if is_match_day or rng.random() < 0.55: # 55% chance of having a session on a given day
-#            duration = int(rng.integers(70, 100)) if is_match_day else int(rng.integers(40, 80)) # match days are longer
-#            rpe = min(10, base_rpe + rng.integers(0, 4) + (2 if is_match_day else 0)) # match days are more intense
-#            distance = round(rng.normal(4, 9), 2) # average distance in km, with some variance
-#            high_speed = int(rng.normal(200, 1500)) # average high-speed distance in meters, with some variance
-#            session_rows.append(( # append a tuple representing this session to the list
-#                pid, d.date(), "match" if is_match_day else "training", 
-#                duration, int(rpe), distance, high_speed
-#            ))
-
 cursor.executemany( # insert generated session data into the Sessions table
     """INSERT INTO Sessions
             (player_id, session_date, session_type, duration_minutes, rpe, distance_km, high_speed_m)

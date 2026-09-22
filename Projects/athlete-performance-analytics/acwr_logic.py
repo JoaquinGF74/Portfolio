@@ -6,7 +6,7 @@ def compute_acwr(sessions: pd.DataFrame) -> pd.DataFrame:
     sessions: DataFrame with columns [player_id, session_date, duration_minutes, rpe]
     Returns one row per (player_id, as_of_date) with acute/chronic workload, ACWR, risk_flag.
 
-    Method: rolling-average ACWR (Gabbett, 2016) —
+    Method: rolling-average ACWR (Gabbett, 2016)
       acute_workload   = sum of session load (duration * RPE) over trailing 7 days
       chronic_workload = average *weekly* load over trailing 28 days (chronic / 4)
       acwr             = acute_workload / chronic_workload
