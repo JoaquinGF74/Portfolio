@@ -58,4 +58,21 @@ This project simulates a digital banking environment, models user and transactio
 
 **Key Insight:** Combines rule-based anomaly detection and data storytelling to highlight financial fraud patterns and support risk assessment with interactive visual tools.
 
+## [Athlete Performance & Injury-Risk Analytics](./Projects/athlete-performance-analytics/athlete-performance-analytics.md)
+
+This project builds an end-to-end athlete monitoring system for a college rugby team, simulating training data and computing injury-risk scores in a live-connected pipeline.
+
+### Key Steps:
+
+- **Data Pipeline:** Built a Python ETL pipeline generating realistic training/match session data, written directly into PostgreSQL.
+- **Database Design:** Designed a normalized PostgreSQL schema (`Players`, `Sessions`, `PlayerRiskScore`) queried live by Power BI, with no CSV hand-off.
+- **Injury-Risk Modeling:** Implemented the Acute:Chronic Workload Ratio (ACWR) methodology to flag players as low, moderate, or high risk of injury.
+- **Visualization & Analysis:** Built a DirectQuery-connected Power BI dashboard with KPI cards, risk breakdowns, and a live high-risk player table.
+
+**Technologies:** `Python`, `PostgreSQL`, `Power BI`
+
+**Key Insight:** Differentiating forwards from backs in the workload model reveals distinct ACWR profiles by position, showing the dashboard catching real positional workload patterns rather than flat, undifferentiated risk scores.
+
+---
+
 ### [Back](./)

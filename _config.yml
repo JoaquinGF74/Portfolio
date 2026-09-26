@@ -29,5 +29,7 @@ navigation:
         link: https://JoaquinGF74.github.io/Portfolio/Projects/sales-profit-project/sales-profit-across-the-usa.html
       - name: Banking Ledger and Fraud Detection Notebook
         link: https://JoaquinGF74.github.io/Portfolio/Projects/banking-ledger/fraud-detection-notebook.html
+      - name: Athlete Performance & Injury-Risk Analytics
+        link: https://JoaquinGF74.github.io/Portfolio/Projects/athlete-performance-analytics/athlete-performance-analytics.html
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
